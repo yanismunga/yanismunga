@@ -12,7 +12,7 @@ Financial and Business Economics student at **York University** (Toronto), gradu
 | Project | What it shows |
 |---|---|
 | [Amazon India Sales Dashboard](https://github.com/yanismunga/amazon-sales-dashboard-excel) | Excel dashboard on 108K orders. Found that two categories drive 77% of revenue and that weekly sales fell 27% in early May. |
-| [Data Analyst Job Market Analysis](https://github.com/yanismunga/data-analyst-job-analysis-excel) | Cleaned and grouped 2,253 Glassdoor listings. New York leads with 14% of listings, and junior roles are only 5%. |
+| [Data Analyst Job Market Analysis](https://github.com/yanismunga/data-analyst-job-analysis-excel) | Cleaned 2,253 raw Glassdoor listings down to 2,242 and grouped 1,000+ job titles into 8 categories. New York leads with 14% of listings, and junior roles are only 5%. |
 
 ### Coming next
 - **SQL:** Bank transaction analysis in PostgreSQL (customer spending, trends, unusual transactions)
@@ -20,3 +20,5 @@ Financial and Business Economics student at **York University** (Toronto), gradu
 
 ### Contact
 Open to finance and data internships, co-ops and new-grad roles from May 2027.
+
+📧 [yanismunga0@gmail.com](mailto:yanismunga0@gmail.com)
