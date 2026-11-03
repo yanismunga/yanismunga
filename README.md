@@ -21,4 +21,4 @@ Financial and Business Economics student at **York University** (Toronto), gradu
 ### Contact
 Open to finance and data internships, co-ops and new-grad roles from May 2027.
 
-📧 [yanismunga0@gmail.com](mailto:yanismunga0@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/yanismunga/) · 📧 [yanismunga0@gmail.com](mailto:yanismunga0@gmail.com)
